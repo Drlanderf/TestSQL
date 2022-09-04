@@ -1,0 +1,22 @@
+
+                    <Button x:Name="btn2" Grid.Column="0" Grid.Row="1" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btn3" Grid.Column="0" Grid.Row="2" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    
+                    <Button x:Name="btn4" Grid.Column="0" Grid.Row="3" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    
+                    <Button x:Name="btn5" Grid.Column="1" Grid.Row="0" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btn6" Grid.Column="1" Grid.Row="1" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btn7" Grid.Column="1" Grid.Row="2" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    
+                    <Button x:Name="btn8" Grid.Column="1" Grid.Row="3" Content="Button" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+
+                    <Button x:Name="btn9" Grid.Column="2" Grid.Row="0" Content="←" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btn10" Grid.Column="2" Grid.Row="1" Content="C" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btn11" Grid.Column="2" Grid.Row="2" Content="*" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                                        
+                    <Button x:Name="btnSupprimer" Grid.Column="3" Grid.Row="0" Content="←" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btnCancel" Grid.Column="3" Grid.Row="1" Content="C" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    <Button x:Name="btnEtoile" Grid.Column="3" Grid.Row="2" Content="*" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    
+                    <Button x:Name="btnEnter" Grid.Column="3" Grid.Row="3" Content="Enter" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.975,0.887" Height="40" Width="88" Click="btn1_Click" />
+                    
